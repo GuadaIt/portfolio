@@ -411,6 +411,7 @@ article {
 
 .still-container img {
   height: 100%;
+  width: 100%;
 }
 
 .still-container:hover {
